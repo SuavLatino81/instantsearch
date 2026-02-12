@@ -37,7 +37,7 @@
     "hogan.js": "^3.0.2",
     "htm": "^3.0.0",
     "preact": "^10.10.0",
-    "qs": "^6.5.1 < 6.10",
+    "qs": "^6.14.2",
     "search-insights": "^2.1.0"
   },
   "peerDependencies": {
